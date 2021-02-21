@@ -13,6 +13,8 @@ namespace iNile.Data
         {
         }
         public DbSet<Category> Category { set; get; }
-        public DbSet<ApplicationType> ApplicationType { set; get; } 
+        public DbSet<ApplicationType> ApplicationType { set; get; }
+        public DbSet<Product> Product { get; set; }
+
     }
 }

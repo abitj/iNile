@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace iNile.Controllers
 {
+
     public class CategoryController : Controller
     {
         private readonly ApplicationDbContext _db;
