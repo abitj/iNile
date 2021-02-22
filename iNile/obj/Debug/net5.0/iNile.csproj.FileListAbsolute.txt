@@ -1318,3 +1318,5 @@ C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\iNile.genruntimeconf
 C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
 C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Views\Product\Upsert.cshtml.g.cs
 C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Views\Shared\_IndividualProductCard.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
