@@ -1365,4 +1365,9 @@ C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Areas\Identity
 C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+<<<<<<< HEAD
 C:\Users\User\OneDrive\Desktop\iNile\iNile\bin\Debug\net5.0\Mailjet.Client.dll
+=======
+C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Desktop\iNile\iNile\obj\Debug\net5.0\Razor\Views\Cart\Summary.cshtml.g.cs
+>>>>>>> 7efd4525a379b862f4769af8a6907f27502675ba
